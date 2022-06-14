@@ -11,12 +11,12 @@ It's good see you here :smiley:
 
 
   ---
-
   
-  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruandreo&hide=html&layout=compact&theme=tokyonight" />  
-  <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=bruandreo&show_icons=true&theme=tokyonight"/>  
   
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruandreo&hide=html&layout=compact&theme=tokyonight&hide_border=true" />  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bruandreo&show_icons=true&theme=tokyonight&hide_border=true" />  
+  
+  
   ---
   
   

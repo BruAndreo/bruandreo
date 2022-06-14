@@ -12,7 +12,7 @@ I'm a software engineer from Brazil, and currently working at Loggi. I'm a passi
 <br /><br />
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruandreo&hide=html&layout=compact&theme=tokyonight" />  
-<img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=bruandreo&show_icons=true&theme=tokyonight"/>  
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=bruandreo&show_icons=true&theme=tokyonight"/>  
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bruandreo&theme=tokyonight)](https://git.io/streak-stats)
